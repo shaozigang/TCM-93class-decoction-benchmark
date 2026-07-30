@@ -51,9 +51,12 @@ Reported environment: Python, PyTorch / torchvision, single NVIDIA Tesla T4 GPU 
 
 ## Citation
 
+**Author:** Zigang Shao — ORCID: [0009-0008-9105-1861](https://orcid.org/0009-0008-9105-1861)
+
 If you use this benchmark, please cite the associated article (full citation will be added once the paper is published). For now, please reference this repository:
 
 ```
-shaozigang. TCM-93class-decoction-benchmark.
+Zigang Shao (ORCID: 0009-0008-9105-1861).
+TCM-93class-decoction-benchmark.
 https://github.com/shaozigang/TCM-93class-decoction-benchmark
 ```
